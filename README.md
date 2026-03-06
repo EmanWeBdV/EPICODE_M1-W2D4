@@ -37,7 +37,6 @@
 ---
 
 ## ✨ Preview
-s/readme-preview.png`
 
 <p align="center">
   <img src="./assets/preview2.png" alt="Preview" width="900">
